@@ -1,0 +1,12 @@
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\obj\Debug\net6.0\PatternsTutorial.csproj.AssemblyReference.cache
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\obj\Debug\net6.0\PatternsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\obj\Debug\net6.0\PatternsTutorial.AssemblyInfoInputs.cache
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\obj\Debug\net6.0\PatternsTutorial.AssemblyInfo.cs
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\obj\Debug\net6.0\PatternsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\bin\Debug\net6.0\PatternsTutorial.deps.json
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\bin\Debug\net6.0\PatternsTutorial.dll
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\bin\Debug\net6.0\ref\PatternsTutorial.dll
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\bin\Debug\net6.0\PatternsTutorial.pdb
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\obj\Debug\net6.0\PatternsTutorial.dll
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\obj\Debug\net6.0\ref\PatternsTutorial.dll
+C:\Users\m1st\source\repos\PatternsTutorial\PatternsTutorial\obj\Debug\net6.0\PatternsTutorial.pdb
